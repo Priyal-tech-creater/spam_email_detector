@@ -5,6 +5,13 @@ I made this project to learn how machine learning can be used to detect spam ema
 Both models got around 97% accuracy which I was pretty happy with.
 
 ---
+##  Features
+
+- Text cleaning: lowercasing, tokenisation, stopword & punctuation removal
+- TF-IDF vectorisation
+- Two classifiers: **Multinomial Naive Bayes** and **Logistic Regression**
+- Accuracy scores + confusion matrices for both models
+- Single-email prediction helper
 
 ## How it works
 
